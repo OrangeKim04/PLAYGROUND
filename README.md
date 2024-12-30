@@ -1,10 +1,11 @@
 # [2024년 제3회 오픈데이터포럼(ODF) 해커톤](https://www.data.go.kr/bbs/ntc/selectNotice.do?originId=NOTICE_0000000003790)
+- - -
 ## [최우수상(2등) 수상](https://www.odf.or.kr/hackathon/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=126358409&t=board&category=0l76bU8179)
 
-- - -
 
 **아이템명**: 놀이터백과  
-               
+
+                        
 **활용 공공데이터**: 
   1. 행정안전부_전국어린이놀이시설정보서비스
   2. 행정안전부_전국어린이놀이시설기구정보서비스
@@ -16,7 +17,8 @@
   8. 경찰청_경찰관서 위치 주소 현황
   9. 한국환경공단_에어코리아_대기오염정보
   10. OpenWeather_Current Weather Data
-                             
+
+                                             
 **내용**:
   - 놀이터백과는 안전 정보, 위치, 주변 안전 시설을 한눈에 확인할 수 있는 직관적인 지도 기반 앱입니다.
   - 부모와 아이들이 안전한 놀이터를 쉽게 선택할 수 있도록 구체적이고 신뢰할 수 있는 정보를 제공합니다.
