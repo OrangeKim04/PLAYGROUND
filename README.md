@@ -17,6 +17,16 @@
 &nbsp;
 
 &nbsp;
+## 팀원구성
+## Team
+|<img src="https://avatars.githubusercontent.com/u/120697629?v=4" width="150" height="150"/>|
+|:-:|
+|[@OrangeKim04](https://github.com/OrangeKim04)|
+
+<sub>[Table made by TIT](https://team-info-table.seondal.kr/)</sub>
+&nbsp;
+
+&nbsp;
 ## 개발 환경
  ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 	
  ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
