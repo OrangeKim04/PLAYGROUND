@@ -18,13 +18,12 @@
 
 &nbsp;
 ## 팀원구성
-<table>
-  <tbody>
-    <tr>
-      <td align="center"><a href="https://github.com/OrangeKim04"><img src="https://avatars.githubusercontent.com/u/120697629?v=4" width="100px;" alt=""/><br /><sub><b> 김규리 </b></sub></a><br /></td>
-    </tr>
-  </tbody>
-</table>
+## Team
+|<img src="https://avatars.githubusercontent.com/u/120697629?v=4" width="150" height="150"/>|
+|:-:|
+|[@OrangeKim04](https://github.com/OrangeKim04)|
+
+<sub>[Table made by TIT](https://team-info-table.seondal.kr/)</sub>
 &nbsp;
 
 &nbsp;
