@@ -22,6 +22,7 @@
 |:-:|
 |[@OrangeKim04](https://github.com/OrangeKim04)|
 |<b>김규리</b>|
+|FE|
 &nbsp;
 
 &nbsp;
