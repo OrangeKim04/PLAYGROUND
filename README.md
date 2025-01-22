@@ -20,7 +20,7 @@
 ## 팀원구성
 ## Team
 |<img src="https://avatars.githubusercontent.com/u/120697629?v=4" width="150" height="150"/>|
-|:-:|
+|김규|
 |[@OrangeKim04](https://github.com/OrangeKim04)|
 &nbsp;
 
