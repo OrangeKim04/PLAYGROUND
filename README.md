@@ -1,7 +1,7 @@
 
 # Project Name
 
-Provide a brief description of your project here. Explain the purpose or main functionality of the project.
+놀이터백과
 
 ## Getting Started
 
