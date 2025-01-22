@@ -21,9 +21,7 @@
 |<b>김규리</b>|
 |:-:|
 |<img src="https://avatars.githubusercontent.com/u/120697629?v=4" width="150" height="150"/>|
-|:-:|
 |[@OrangeKim04](https://github.com/OrangeKim04)|
-|:-:|
 &nbsp;
 
 &nbsp;
