@@ -21,7 +21,7 @@
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href="https://github.com/OrangeKim04"><img src="[이미지주소](https://avatars.githubusercontent.com/u/120697629?v=4)" width="100px;" alt=""/><br /><sub><b> 김규리 </b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/OrangeKim04"><img src="https://avatars.githubusercontent.com/u/120697629?v=4" width="100px;" alt=""/><br /><sub><b> 김규리 </b></sub></a><br /></td>
     </tr>
   </tbody>
 </table>
