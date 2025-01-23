@@ -21,9 +21,9 @@
 <div align="center">
 
 |<b>김규리</b>|<b>장민주</b>|
-|<img src="https://avatars.githubusercontent.com/u/120697629?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/186031147?v=4" width="150" height="150"/>|
 |:-:|:-:|
-|[@OrangeKim04](https://github.com/OrangeKim04)|minju_Jang<br/>[@Minju-3](https://github.com/Minju-3)|
+|<img src="https://avatars.githubusercontent.com/u/120697629?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/186031147?v=4" width="150" height="150"/>|
+|[@OrangeKim04](https://github.com/OrangeKim04)|<br/>[@Minju-3](https://github.com/Minju-3)|
 
 </div>
 &nbsp;
